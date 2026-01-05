@@ -1,2 +1,7 @@
-# Angular-Learning
-A repository to leanr Angular through making a Demo Project 
+# Angular Learning
+
+This repository contains my Angular learning projects.
+
+## Projects
+- Hello World Angular App
+- Order Entry Module (in progress)
