@@ -34,7 +34,7 @@ import { CommonModule } from '@angular/common';
 export class App {
   // current = '';
   // read(val: string) { this.current = val ?? ''; }
-  user:{profile?:{email?:string}}|undefined=undefined;
+  user:{profile?:{email?:string}}|undefined;
   toggle(){
     this.user=this.user ? undefined : {profile:{email:'a@example.com'}};
   }
